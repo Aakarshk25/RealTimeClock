@@ -4,7 +4,7 @@ import App from "./components/App";
 
 ReactDOM.render(<App />, document.getElementById("root"));
 
-//Challenge:
+//Challenge: hiw
 //1. Given that you can get the current time using:
 
 //Show the latest time in the <h1> when the Get Time button
