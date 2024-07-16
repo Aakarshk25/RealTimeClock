@@ -1,3 +1,2 @@
 # RealTimeClock
-React
-![Clock](https://github.com/user-attachments/assets/6f034fbb-c9c3-480a-947b-1ee3613af68a)
+![clock](https://github.com/user-attachments/assets/45010808-fd74-465e-9842-b4f748190ee4)
